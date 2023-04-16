@@ -1,0 +1,1 @@
+{"version":3,"file":"referEarnAmount.dto.js","sourceRoot":"","sources":["../../../src/admin/referEarnAmount/referEarnAmount.dto.ts"],"names":[],"mappings":";;;AAAA,yDAAyC;AAE5B,QAAA,UAAU,GAAG;IACtB,IAAA,wBAAI,EAAC,WAAW,CAAC;SACZ,SAAS,EAAE,CAAC,WAAW,CAAC,qBAAqB,CAAC;SAC9C,KAAK,EAAE;IAEZ,IAAA,wBAAI,EAAC,YAAY,CAAC;SACb,SAAS,EAAE,CAAC,WAAW,CAAC,sBAAsB,CAAC;SAC/C,KAAK,EAAE;CACf,CAAC"}

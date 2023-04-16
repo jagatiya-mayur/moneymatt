@@ -1,0 +1,1 @@
+{"version":3,"file":"referals.dto.js","sourceRoot":"","sources":["../../../src/common/referals/referals.dto.ts"],"names":[],"mappings":";;;AAAA,yDAAgD;AAEnC,QAAA,QAAQ,GAAG;IACpB,IAAA,yBAAK,EAAC,OAAO,CAAC;SACT,SAAS,EAAE,CAAC,WAAW,CAAC,eAAe,CAAC;SACxC,QAAQ,EAAE,CAAC,WAAW,CAAC,iBAAiB,CAAC;CACjD,CAAA"}

@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.27132b7f.css",
+    "main.js": "/static/js/main.d91f25cb.js",
+    "static/media/fa-solid-900.svg": "/static/media/fa-solid-900.dad3d991c79c6ec9e284.svg",
+    "static/media/fa-brands-400.svg": "/static/media/fa-brands-400.85ca58b3dfb55c08f9cf.svg",
+    "static/media/fa-solid-900.eot": "/static/media/fa-solid-900.ab3ef4abdaedeced5219.eot",
+    "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.6e617fd4bfae0ebd495b.ttf",
+    "static/media/fa-regular-400.svg": "/static/media/fa-regular-400.4d5e84b7703fc47f5b87.svg",
+    "static/media/fa-brands-400.eot": "/static/media/fa-brands-400.46c13076acbc82aac893.eot",
+    "static/media/fa-brands-400.ttf": "/static/media/fa-brands-400.131054e1a15e8c1a2be9.ttf",
+    "static/media/sign-in-image.png": "/static/media/sign-in-image.72c6a5bd312008e43f8c.png",
+    "static/media/fa-solid-900.woff": "/static/media/fa-solid-900.1bdf103cf1d2f4875cb4.woff",
+    "static/media/fa-brands-400.woff": "/static/media/fa-brands-400.d87ca79c4938f3ca66cb.woff",
+    "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.f2d8806e4ac0d7a6e72f.woff2",
+    "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.2ffc1f5b1909c172f239.woff2",
+    "static/media/fa-regular-400.eot": "/static/media/fa-regular-400.59f4a1ec50a2e39950ae.eot",
+    "static/media/fa-regular-400.ttf": "/static/media/fa-regular-400.8ce738c3de1f5af6f0db.ttf",
+    "static/media/Flaticon.svg": "/static/media/Flaticon.25fb38bf5c01a02808f8.svg",
+    "static/media/fa-regular-400.woff": "/static/media/fa-regular-400.aee72cf0a11239dba36c.woff",
+    "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.6462b09d97cb0149ec02.woff2",
+    "static/media/BuddiesIcon.png": "/static/media/BuddiesIcon.4030e319fb2d39447744.png",
+    "static/media/Flaticon.eot": "/static/media/Flaticon.3ad1566aea14d7f58485.eot",
+    "static/media/Flaticon.ttf": "/static/media/Flaticon.2cce4765d40cc642f8dc.ttf",
+    "static/media/Flaticon.woff": "/static/media/Flaticon.60fb10bbca4efcde9e73.woff",
+    "static/media/Flaticon.woff2": "/static/media/Flaticon.c2aa654b2c7da9e386f0.woff2",
+    "static/media/openPrices.svg": "/static/media/openPrices.c694f32b3ec86ee25baf91591a22ad8b.svg",
+    "static/media/totalAmount.svg": "/static/media/totalAmount.4650f3ecb8b7a594f0cd4ac2a8fe0648.svg",
+    "static/media/history.svg": "/static/media/history.431784ecc78eebc3d17f5fd1d3ceb2b7.svg",
+    "static/media/home.svg": "/static/media/home.cea7c8e9763881c42217edecd06c4a82.svg",
+    "static/media/query.svg": "/static/media/query.43936ba63b2eb889b9e8c26949ec5671.svg",
+    "static/media/totalEarning.svg": "/static/media/totalEarning.ee4f9447937b62251d2b97ad11044ab2.svg",
+    "index.html": "/index.html",
+    "static/media/person.svg": "/static/media/person.f81547009fd2d9deb353b1fa02676aec.svg",
+    "static/media/user.svg": "/static/media/user.3df2ab5fc924ca266e9831a756d7abf5.svg",
+    "main.27132b7f.css.map": "/static/css/main.27132b7f.css.map",
+    "main.d91f25cb.js.map": "/static/js/main.d91f25cb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27132b7f.css",
+    "static/js/main.d91f25cb.js"
+  ]
+}
